@@ -10,10 +10,10 @@
 
 色彩驱动、阅读优先的 MediaWiki 皮肤，基于 Material 3 风格的 design token。
 
-[中文文档](https://chroma-mediawiki.github.io/chroma-docs/) · [English docs](https://chroma-mediawiki.github.io/chroma-docs/en/) · [皮肤仓库](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [文档仓库](https://github.com/chroma-mediawiki/chroma-docs) · [QQ](https://qm.qq.com/q/zSaZRWS4eY) · [Bilibili](https://b23.tv/QiGlLcm)
+[中文文档](https://chroma-mediawiki.github.io/) · [English docs](https://chroma-mediawiki.github.io/en/) · [皮肤仓库](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [文档仓库](https://github.com/chroma-mediawiki/chroma-mediawiki.github.io) · [QQ](https://qm.qq.com/q/zSaZRWS4eY) · [Bilibili](https://b23.tv/QiGlLcm)
 
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/blob/main/LICENSE)
-[![MediaWiki](https://img.shields.io/badge/MediaWiki-1.43%20%7C%201.45%20%7C%201.46-36c.svg)](https://chroma-mediawiki.github.io/chroma-docs/guide/compatibility)
+[![MediaWiki](https://img.shields.io/badge/MediaWiki-1.43%20%7C%201.45%20%7C%201.46-36c.svg)](https://chroma-mediawiki.github.io/guide/compatibility)
 [![Latest release](https://img.shields.io/github/v/release/chroma-mediawiki/mediawiki-skins-Chroma?include_prereleases&label=release)](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases)
 
 </div>
@@ -38,7 +38,7 @@ Chroma 把 Material 3 风格的 **design token** 带进 MediaWiki：语义色彩
 | 仓库 | 说明 |
 |---|---|
 | [mediawiki-skins-Chroma](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) | 皮肤本体：PHP、Mustache 模板、CSS token、JS、i18n、Release |
-| [chroma-docs](https://github.com/chroma-mediawiki/chroma-docs) | 官方中英双语文档站，使用 VitePress 构建 |
+| [chroma-mediawiki.github.io](https://github.com/chroma-mediawiki/chroma-mediawiki.github.io) | 官方中英双语文档站，使用 VitePress 构建 |
 
 ## 快速开始
 
