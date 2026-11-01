@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.svg" width="96" height="96" alt="Chroma logo">
+<img src="https://raw.githubusercontent.com/chroma-mediawiki/.github/main/profile/logo.svg" width="96" height="96" alt="Chroma logo">
 
 # Chroma
 
@@ -16,7 +16,7 @@ A color-first, reading-first MediaWiki skin built on Material 3-style design tok
 
 </div>
 
-![Chroma](profile/banner.svg)
+![Chroma](https://raw.githubusercontent.com/chroma-mediawiki/.github/main/profile/banner.svg)
 
 ## What is Chroma?
 
@@ -58,7 +58,7 @@ Download the ZIP for your MediaWiki line:
 
 ## Screenshot
 
-![Chroma on MediaWiki 1.46](profile/screenshot.png)
+![Chroma on MediaWiki 1.46](https://raw.githubusercontent.com/chroma-mediawiki/.github/main/profile/screenshot.png)
 
 ## License
 
