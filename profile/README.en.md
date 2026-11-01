@@ -28,7 +28,7 @@ It is not a complete Material 3 component library, and it does not replace Media
 
 ## Why Chroma
 
-- **Color as a system** — seed `#006A6A`, four presets, light/dark/system, one `--md-sys-*` token set.
+- **Color as a system** — seed `#006A6A`, eight presets, light/dark/system, one `--md-sys-*` token set.
 - **Reading first** — app and reading layouts, a reading mode that removes tools, nested TOC with scroll-spy.
 - **Mobile without MinervaNeue** — set `$wgDefaultMobileSkin = 'chroma'` and mobile UAs use Chroma directly.
 - **Built for real wikis** — extension matrix, special pages, Codex/OOUI surfaces, no external CDN requests.
@@ -54,9 +54,9 @@ Download the ZIP for your MediaWiki line:
 
 | MediaWiki | Release |
 |---|---|
-| 1.43 LTS | [v0.5.2-REL1_43](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.5.2-REL1_43) |
-| 1.45 | [v0.5.2-REL1_45](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.5.2-REL1_45) |
-| 1.46 | [v0.5.2-REL1_46](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.5.2-REL1_46) |
+| 1.43 LTS | [v0.6.0-REL1_43](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.6.0-REL1_43) |
+| 1.45 | [v0.6.0-REL1_45](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.6.0-REL1_45) |
+| 1.46 | [v0.6.0-REL1_46](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.6.0-REL1_46) |
 
 ## Screenshot
 
