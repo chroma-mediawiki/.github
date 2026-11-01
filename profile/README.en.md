@@ -10,10 +10,10 @@
 
 A color-first, reading-first MediaWiki skin built on Material 3-style design tokens.
 
-[English docs](https://chroma-mediawiki.github.io/chroma-docs/en/) · [中文文档](https://chroma-mediawiki.github.io/chroma-docs/) · [Skin repository](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [Docs repository](https://github.com/chroma-mediawiki/chroma-docs) · [QQ](https://qm.qq.com/q/zSaZRWS4eY) · [Bilibili](https://b23.tv/QiGlLcm)
+[English docs](https://chroma-mediawiki.github.io/en/) · [中文文档](https://chroma-mediawiki.github.io/) · [Skin repository](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [Docs repository](https://github.com/chroma-mediawiki/chroma-mediawiki.github.io) · [QQ](https://qm.qq.com/q/zSaZRWS4eY) · [Bilibili](https://b23.tv/QiGlLcm)
 
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/blob/main/LICENSE)
-[![MediaWiki](https://img.shields.io/badge/MediaWiki-1.43%20%7C%201.45%20%7C%201.46-36c.svg)](https://chroma-mediawiki.github.io/chroma-docs/en/guide/compatibility)
+[![MediaWiki](https://img.shields.io/badge/MediaWiki-1.43%20%7C%201.45%20%7C%201.46-36c.svg)](https://chroma-mediawiki.github.io/en/guide/compatibility)
 [![Latest release](https://img.shields.io/github/v/release/chroma-mediawiki/mediawiki-skins-Chroma?include_prereleases&label=release)](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases)
 
 </div>
@@ -38,7 +38,7 @@ It is not a complete Material 3 component library, and it does not replace Media
 | Repository | What it is |
 |---|---|
 | [mediawiki-skins-Chroma](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) | The skin: PHP, Mustache template, CSS tokens, JS, i18n, releases |
-| [chroma-docs](https://github.com/chroma-mediawiki/chroma-docs) | The official bilingual documentation site, built with VitePress |
+| [chroma-mediawiki.github.io](https://github.com/chroma-mediawiki/chroma-mediawiki.github.io) | The official bilingual documentation site, built with VitePress |
 
 ## Quick start
 
