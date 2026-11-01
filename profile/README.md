@@ -1,54 +1,56 @@
+<p align="right"><strong>简体中文</strong> · <a href="https://github.com/chroma-mediawiki/.github/blob/main/profile/README.en.md">English</a></p>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/chroma-mediawiki/.github/main/profile/logo.svg" width="96" height="96" alt="Chroma logo">
 
 # Chroma
 
-**Color for MediaWiki.**
+**给 MediaWiki 上色。**
 
-A color-first, reading-first MediaWiki skin built on Material 3-style design tokens.
+色彩驱动、阅读优先的 MediaWiki 皮肤，基于 Material 3 风格的 design token。
 
-[English docs](https://chroma-mediawiki.github.io/chroma-docs/en/) · [中文文档](https://chroma-mediawiki.github.io/chroma-docs/) · [Skin repository](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [Docs repository](https://github.com/chroma-mediawiki/chroma-docs)
+[中文文档](https://chroma-mediawiki.github.io/chroma-docs/) · [English docs](https://chroma-mediawiki.github.io/chroma-docs/en/) · [皮肤仓库](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [文档仓库](https://github.com/chroma-mediawiki/chroma-docs)
 
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/blob/main/LICENSE)
-[![MediaWiki](https://img.shields.io/badge/MediaWiki-1.43%20%7C%201.45%20%7C%201.46-36c.svg)](https://chroma-mediawiki.github.io/chroma-docs/en/guide/compatibility)
+[![MediaWiki](https://img.shields.io/badge/MediaWiki-1.43%20%7C%201.45%20%7C%201.46-36c.svg)](https://chroma-mediawiki.github.io/chroma-docs/guide/compatibility)
 [![Latest release](https://img.shields.io/github/v/release/chroma-mediawiki/mediawiki-skins-Chroma?include_prereleases&label=release)](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases)
 
 </div>
 
 ![Chroma](https://raw.githubusercontent.com/chroma-mediawiki/.github/main/profile/banner.svg)
 
-## What is Chroma?
+## Chroma 是什么
 
-Chroma brings a Material 3-style **design token** layer to MediaWiki: semantic color roles, type scale, shape, elevation, motion and state layers. It then applies those tokens through two layouts, a focused reading mode and a full MobileFrontend takeover.
+Chroma 把 Material 3 风格的 **design token** 带进 MediaWiki：语义色彩角色、字阶、形状、海拔、动效与状态层，再通过两种布局、阅读模式和 MobileFrontend 全接管落到 wiki 的阅读与编辑界面里。
 
-It is not a complete Material 3 component library, and it does not replace MediaWiki's content model. Pages, talk, history, editors and extensions stay powered by MediaWiki; the skin owns presentation, hierarchy and reading rhythm.
+它不是完整的 Material 3 组件库，也不重造 MediaWiki 的内容模型。页面、讨论、历史、编辑器和扩展仍由 MediaWiki 驱动；皮肤负责呈现、层级和阅读节奏。
 
-## Why Chroma
+## 为什么是 Chroma
 
-- **Color as a system** — seed `#006A6A`, four presets, light/dark/system, one `--md-sys-*` token set.
-- **Reading first** — app and reading layouts, a reading mode that removes tools, nested TOC with scroll-spy.
-- **Mobile without MinervaNeue** — set `$wgDefaultMobileSkin = 'chroma'` and mobile UAs use Chroma directly.
-- **Built for real wikis** — extension matrix, special pages, Codex/OOUI surfaces, no external CDN requests.
+- **色彩是系统**：默认 seed `#006A6A`，四套预设，浅色/深色/跟随系统，统一 `--md-sys-*` token。
+- **阅读优先**：应用式与阅读式布局，阅读模式收起工具，嵌套目录 + scroll-spy。
+- **不依赖 MinervaNeue 的手机端**：设置 `$wgDefaultMobileSkin = 'chroma'`，手机 UA 直接使用 Chroma。
+- **为真实 wiki 而做**：扩展矩阵、特殊页、Codex/OOUI surface，无外部 CDN 请求。
 
-## Repositories
+## 仓库
 
-| Repository | What it is |
+| 仓库 | 说明 |
 |---|---|
-| [mediawiki-skins-Chroma](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) | The skin: PHP, Mustache template, CSS tokens, JS, i18n, releases |
-| [chroma-docs](https://github.com/chroma-mediawiki/chroma-docs) | The official bilingual documentation site, built with VitePress |
+| [mediawiki-skins-Chroma](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) | 皮肤本体：PHP、Mustache 模板、CSS token、JS、i18n、Release |
+| [chroma-docs](https://github.com/chroma-mediawiki/chroma-docs) | 官方中英双语文档站，使用 VitePress 构建 |
 
-## Quick start
+## 快速开始
 
 ```php
 wfLoadSkin( 'Chroma' );
 $wgDefaultSkin = 'chroma';
 
-// Optional: MobileFrontend takeover
+// 可选：MobileFrontend 全接管手机端
 $wgDefaultMobileSkin = 'chroma';
 ```
 
-Download the ZIP for your MediaWiki line:
+下载对应 MediaWiki 版本线的 ZIP：
 
 | MediaWiki | Release |
 |---|---|
@@ -56,10 +58,10 @@ Download the ZIP for your MediaWiki line:
 | 1.45 | [v0.5.2-REL1_45](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.5.2-REL1_45) |
 | 1.46 | [v0.5.2-REL1_46](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.5.2-REL1_46) |
 
-## Screenshot
+## 截图
 
 ![Chroma on MediaWiki 1.46](https://raw.githubusercontent.com/chroma-mediawiki/.github/main/profile/screenshot.png)
 
-## License
+## 许可
 
-GPL-3.0-or-later. Chroma is an independent community project, not affiliated with or endorsed by Google. Material Design and Material 3 are trademarks of Google LLC.
+GPL-3.0-or-later。Chroma 是独立社区项目，与 Google 无关联，也未获其背书。Material Design 与 Material 3 是 Google LLC 的商标。
