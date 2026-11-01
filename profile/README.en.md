@@ -10,7 +10,7 @@
 
 A color-first, reading-first MediaWiki skin built on Material 3-style design tokens.
 
-[English docs](https://chroma-mediawiki.github.io/chroma-docs/en/) · [中文文档](https://chroma-mediawiki.github.io/chroma-docs/) · [Skin repository](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [Docs repository](https://github.com/chroma-mediawiki/chroma-docs)
+[English docs](https://chroma-mediawiki.github.io/chroma-docs/en/) · [中文文档](https://chroma-mediawiki.github.io/chroma-docs/) · [Skin repository](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [Docs repository](https://github.com/chroma-mediawiki/chroma-docs) · [QQ group](https://qm.qq.com/q/zSaZRWS4eY)
 
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/blob/main/LICENSE)
 [![MediaWiki](https://img.shields.io/badge/MediaWiki-1.43%20%7C%201.45%20%7C%201.46-36c.svg)](https://chroma-mediawiki.github.io/chroma-docs/en/guide/compatibility)
