@@ -10,7 +10,7 @@
 
 色彩驱动、阅读优先的 MediaWiki 皮肤，基于 Material 3 风格的 design token。
 
-[中文文档](https://chroma-mediawiki.github.io/chroma-docs/) · [English docs](https://chroma-mediawiki.github.io/chroma-docs/en/) · [皮肤仓库](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [文档仓库](https://github.com/chroma-mediawiki/chroma-docs)
+[中文文档](https://chroma-mediawiki.github.io/chroma-docs/) · [English docs](https://chroma-mediawiki.github.io/chroma-docs/en/) · [皮肤仓库](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma) · [文档仓库](https://github.com/chroma-mediawiki/chroma-docs) · [QQ 群](https://qm.qq.com/q/zSaZRWS4eY)
 
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/blob/main/LICENSE)
 [![MediaWiki](https://img.shields.io/badge/MediaWiki-1.43%20%7C%201.45%20%7C%201.46-36c.svg)](https://chroma-mediawiki.github.io/chroma-docs/guide/compatibility)
