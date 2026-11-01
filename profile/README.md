@@ -28,7 +28,7 @@ Chroma 把 Material 3 风格的 **design token** 带进 MediaWiki：语义色彩
 
 ## 为什么是 Chroma
 
-- **色彩是系统**：默认 seed `#006A6A`，四套预设，浅色/深色/跟随系统，统一 `--md-sys-*` token。
+- **色彩是系统**：默认 seed `#006A6A`，八套预设，浅色/深色/跟随系统，统一 `--md-sys-*` token。
 - **阅读优先**：应用式与阅读式布局，阅读模式收起工具，嵌套目录 + scroll-spy。
 - **不依赖 MinervaNeue 的手机端**：设置 `$wgDefaultMobileSkin = 'chroma'`，手机 UA 直接使用 Chroma。
 - **为真实 wiki 而做**：扩展矩阵、特殊页、Codex/OOUI surface，无外部 CDN 请求。
@@ -54,9 +54,9 @@ $wgDefaultMobileSkin = 'chroma';
 
 | MediaWiki | Release |
 |---|---|
-| 1.43 LTS | [v0.5.2-REL1_43](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.5.2-REL1_43) |
-| 1.45 | [v0.5.2-REL1_45](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.5.2-REL1_45) |
-| 1.46 | [v0.5.2-REL1_46](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.5.2-REL1_46) |
+| 1.43 LTS | [v0.6.0-REL1_43](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.6.0-REL1_43) |
+| 1.45 | [v0.6.0-REL1_45](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.6.0-REL1_45) |
+| 1.46 | [v0.6.0-REL1_46](https://github.com/chroma-mediawiki/mediawiki-skins-Chroma/releases/tag/v0.6.0-REL1_46) |
 
 ## 截图
 
