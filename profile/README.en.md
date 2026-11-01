@@ -33,6 +33,14 @@ It is not a complete Material 3 component library, and it does not replace Media
 - **Mobile without MinervaNeue** — set `$wgDefaultMobileSkin = 'chroma'` and mobile UAs use Chroma directly.
 - **Built for real wikis** — extension matrix, special pages, Codex/OOUI surfaces, no external CDN requests.
 
+## Eight presets
+
+| Teal | Blue | Green | Violet |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/chroma-mediawiki/mediawiki-skins-Chroma/main/screenshots/preset-teal-en.png" width="240" alt="Teal"> | <img src="https://raw.githubusercontent.com/chroma-mediawiki/mediawiki-skins-Chroma/main/screenshots/preset-blue-en.png" width="240" alt="Blue"> | <img src="https://raw.githubusercontent.com/chroma-mediawiki/mediawiki-skins-Chroma/main/screenshots/preset-green-en.png" width="240" alt="Green"> | <img src="https://raw.githubusercontent.com/chroma-mediawiki/mediawiki-skins-Chroma/main/screenshots/preset-violet-en.png" width="240" alt="Violet"> |
+| **Rose** | **Amber** | **Indigo** | **Lime** |
+| <img src="https://raw.githubusercontent.com/chroma-mediawiki/mediawiki-skins-Chroma/main/screenshots/preset-rose-en.png" width="240" alt="Rose"> | <img src="https://raw.githubusercontent.com/chroma-mediawiki/mediawiki-skins-Chroma/main/screenshots/preset-amber-en.png" width="240" alt="Amber"> | <img src="https://raw.githubusercontent.com/chroma-mediawiki/mediawiki-skins-Chroma/main/screenshots/preset-indigo-en.png" width="240" alt="Indigo"> | <img src="https://raw.githubusercontent.com/chroma-mediawiki/mediawiki-skins-Chroma/main/screenshots/preset-lime-en.png" width="240" alt="Lime"> |
+
 ## Repositories
 
 | Repository | What it is |
